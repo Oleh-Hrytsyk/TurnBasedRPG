@@ -856,11 +856,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: 72f92845-c0de-4aa7-a319-2c38d8ca517b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: TurnBasedRPG
+  organizationId: lionlion1487
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
