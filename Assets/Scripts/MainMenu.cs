@@ -7,6 +7,5 @@ public class MainMenu : MonoBehaviour
     public void QoutGame()
     {
         Application.Quit();
-        Debug.Log("Quit");
     }
 }
